@@ -2,4 +2,5 @@
 Mips 5-Stage Pipeline CPU using Verilog
 
 Single Cycle CPU Designed By Logisim:
-![image](https://github.com/MyLife97/MipsPipelineCPU/CPU.gng)
+
+![image](https://github.com/MyLife97/MipsPipelineCPU/blob/Master/CPU.gng)
