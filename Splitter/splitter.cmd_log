@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/yang/Desktop/ForJiZu/Splitter/splitter.xst" -ofn "C:/Users/yang/Desktop/ForJiZu/Splitter/splitter.syr" 
+xst -intstyle ise -ifn "C:/Users/yang/Desktop/ForJiZu/Splitter/splitter.xst" -ofn "C:/Users/yang/Desktop/ForJiZu/Splitter/splitter.syr" 

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/yang/Desktop/ForJiZu/Splitter/splitter_test_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="splitter_test" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="5" />
+   <wvobject fp_name="/splitter_test/O1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">O1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">O1[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/splitter_test/O2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">O2[7:0]</obj_property>
+      <obj_property name="ObjectShortName">O2[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/splitter_test/O3" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">O3[7:0]</obj_property>
+      <obj_property name="ObjectShortName">O3[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/splitter_test/O4" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">O4[7:0]</obj_property>
+      <obj_property name="ObjectShortName">O4[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/splitter_test/A" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">A[31:0]</obj_property>
+      <obj_property name="ObjectShortName">A[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+</wave_config>

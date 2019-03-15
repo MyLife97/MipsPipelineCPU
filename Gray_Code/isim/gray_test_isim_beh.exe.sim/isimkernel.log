@@ -1,0 +1,10 @@
+Command line:
+   gray_test_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  7686
+
+Tue Nov 07 22:10:51 2017
+
+
+ Elaboration Time: 0.34375 sec

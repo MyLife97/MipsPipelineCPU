@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"C:/Users/yang/Desktop/ForJiZu/P6/line_D.v" Line 218: Port <arg fmt="%s" index="1">grf_dst</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"C:/Users/yang/Desktop/ForJiZu/P6/line_D.v" Line 242: Port <arg fmt="%s" index="1">in_4</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"C:/Users/yang/Desktop/ForJiZu/P6/line_D.v" Line 250: Port <arg fmt="%s" index="1">in_5</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"C:/Users/yang/Desktop/ForJiZu/P6/line_D.v" Line 260: Port <arg fmt="%s" index="1">in_5</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"C:/Users/yang/Desktop/ForJiZu/P6/line_E.v" Line 112: Port <arg fmt="%s" index="1">grf_dst</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"C:/Users/yang/Desktop/ForJiZu/P6/line_E.v" Line 132: Port <arg fmt="%s" index="1">in_4</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"C:/Users/yang/Desktop/ForJiZu/P6/line_E.v" Line 140: Port <arg fmt="%s" index="1">in_4</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"C:/Users/yang/Desktop/ForJiZu/P6/line_E.v" Line 148: Port <arg fmt="%s" index="1">in_4</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"C:/Users/yang/Desktop/ForJiZu/P6/line_M.v" Line 88: Port <arg fmt="%s" index="1">grf_dst</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"C:/Users/yang/Desktop/ForJiZu/P6/line_W.v" Line 72: Port <arg fmt="%s" index="1">extender_type</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"C:/Users/yang/Desktop/ForJiZu/P6/line_W.v" Line 80: Port <arg fmt="%s" index="1">in_4</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="Simulator" num="0" delta="unknown" >Unable to copy libPortabilityNOSH.dll to the simulation executable directory: <arg fmt="%s" index="1">boost::filesystem::copy_file: ￏﾵￍﾳￕￒﾲﾻﾵﾽￖﾸﾶﾨﾵￄￂﾷﾾﾶﾡﾣ, &quot;isim\P6_test_isim_beh.exe.sim\libPortability.dll&quot;</arg>.
+</msg>
+
+</messages>
+

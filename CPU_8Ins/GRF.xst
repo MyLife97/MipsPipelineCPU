@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/yang/Desktop/ForJiZu/CPU_8Ins/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/yang/Desktop/ForJiZu/CPU_8Ins/xst"
+elaborate
+-ifn GRF.prj
+-ifmt mixed

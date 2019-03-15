@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/yang/Desktop/ForJiZu/CPU_8Ins/mips_test_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="mips_test" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="10" />
+   <wvobject fp_name="/mips_test/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_test/Reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Reset</obj_property>
+      <obj_property name="ObjectShortName">Reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_test/uut/datapath/ifu/PC_Now" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">PC_Now[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PC_Now[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_test/uut/datapath/ifu/Instruction" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">Instruction[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Instruction[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_test/uut/datapath/ifu/PC_Next" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">PC_Next[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PC_Next[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_test/uut/datapath/PC_Now" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">PC_Now[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PC_Now[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_test/uut/datapath/npc/Extend_Immediate" type="array" db_ref_id="1">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">Extend_Immediate[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Extend_Immediate[31:0]</obj_property>
+      <obj_property name="label">Extend_Immediate[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_test/uut/datapath/Immediate" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">Immediate[15:0]</obj_property>
+      <obj_property name="ObjectShortName">Immediate[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_test/uut/datapath/extender/Immediate" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">Immediate[15:0]</obj_property>
+      <obj_property name="ObjectShortName">Immediate[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_test/uut/datapath/extender/Result" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">Result[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Result[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+</wave_config>

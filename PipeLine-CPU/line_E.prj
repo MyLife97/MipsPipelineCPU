@@ -1,0 +1,5 @@
+verilog work "reg_E.v"
+verilog work "mod_mux.v"
+verilog work "mod_controller.v"
+verilog work "mod_alu.v"
+verilog work "line_E.v"
